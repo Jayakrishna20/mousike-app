@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456514821467",
+    "project_id": "mousike-24099",
+    "storage_bucket": "mousike-24099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456514821467:android:1dd6c201aa2911b2248e7e",
+        "android_client_info": {
+          "package_name": "com.example.mousike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456514821467-il58g69lp74p31k4n75pcshs5gr66jm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHT7_nL6vxcSAMO16acG1MDFXCxEWKucI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456514821467-il58g69lp74p31k4n75pcshs5gr66jm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
